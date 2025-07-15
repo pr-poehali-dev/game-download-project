@@ -65,6 +65,15 @@ const Index = () => {
       rating: 4.7,
       downloads: '4.1M',
       image: '/placeholder.svg'
+    },
+    {
+      id: 7,
+      title: 'The Sims 3',
+      genre: 'Симулятор',
+      size: '6 GB',
+      rating: 4.4,
+      downloads: '7.2M',
+      image: '/img/6cf35e92-5627-4df0-97af-f437573c80c9.jpg'
     }
   ];
 
