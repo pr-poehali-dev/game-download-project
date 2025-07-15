@@ -74,6 +74,15 @@ const Index = () => {
       rating: 4.4,
       downloads: '7.2M',
       image: '/img/6cf35e92-5627-4df0-97af-f437573c80c9.jpg'
+    },
+    {
+      id: 8,
+      title: 'The Sims 4',
+      genre: 'Симулятор',
+      size: '18 GB',
+      rating: 4.1,
+      downloads: '12.5M',
+      image: '/img/ddf878b5-c485-4b0c-add8-ebf25d32198f.jpg'
     }
   ];
 
